@@ -1,7 +1,7 @@
 # Flight Booking System
 
 ## Description
-This is an Airline managemnet and flight booking system based on microservices architecture. It has 4 microservices:
+This is an Airline management and flight booking system based on microservices architecture. It has 4 microservices:
 1. Flight Service
 2. Booking Service
 3. Authentication Service
